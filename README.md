@@ -1,9 +1,8 @@
 # GameCircles
-This app uses 
 
-Description: when a key is pressed a random color cirlce pop up in the browser along with an effect sound.
+Description: This is a Game app that when a key is pressed a random color cirlce pop up in the browser along with an effect sound.
 
-We can create a new sound by adding a new keyborad as follow:  
+We can create a new sound by adding a new object as show below:  
     <Key>: {
     color: "<Color>",
     sound: new Howl({
